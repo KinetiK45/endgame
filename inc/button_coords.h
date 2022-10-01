@@ -1,0 +1,52 @@
+#ifndef BUTTON_COORDS_H
+#define BUTTON_COORDS_H
+
+#define WINDOW_WIDTH   1920
+#define WINDOW_HEIGHT  1080
+
+#define BUTTON_SIZE_X 300 //360
+#define BUTTON_SIZE_Y 80 //115
+
+#define START_X 1400
+#define START_Y 500
+
+#define SETTINGS_X 1400
+#define SETTINGS_Y 635
+
+#define EXIT_X 1400
+#define EXIT_Y 770
+
+#define START_BUTTON 0
+#define SETTINGS_BUTTON 1
+#define EXIT_BUTTON 2
+#define BACK_BUTTON 3
+#define SOUND_SHIFT_BUTTON 4
+#define INCREASE_VOLUME_BUTTON 5
+#define DECREASE_VOLUME_BUTTON 6
+#define RESUME_BUTTON 7
+#define BACK_TO_MENU_BUTTON 8
+
+#define BACK_X 780
+#define BACK_Y 365
+
+#define SOUND_SHIFT_X 780
+#define SOUND_SHIFT_Y 500
+
+#define INCREASE_VOLUME_X 1140
+#define INCREASE_VOLUME_Y 500
+#define INCREASE_VOLUME_SIZE_X 100
+
+#define DECREASE_VOLUME_X 680
+#define DECREASE_VOLUME_Y 500
+#define DECREASE_VOLUME_SIZE_X 100
+
+#define RESUME_X 780
+#define RESUME_Y 365
+
+#define BACK_TO_MENU_X 780
+#define BACK_TO_MENU_Y 500
+
+#define FIRST_X 340
+#define FIRST_Y 58
+
+#endif
